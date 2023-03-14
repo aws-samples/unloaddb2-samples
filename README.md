@@ -1,4 +1,4 @@
-# db2migration
+# unloaddb2
 
 Assets related to DB2 migration from z/OS
 
